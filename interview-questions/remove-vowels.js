@@ -5,6 +5,6 @@ function removeVowels(inputString) {
 }
 
 // Example usage:
-const inputStr = "Hello, World!";
+const inputStr = "ooga booga ";
 const resultStr = removeVowels(inputStr);
 console.log(resultStr);

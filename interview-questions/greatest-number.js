@@ -16,6 +16,6 @@ function findGreatestNumber(numbers) {
 }
 
 // Example usage:
-const numbersArray = [10, 5, 8, 20, 15];
+const numbersArray = [10, 5, 8, 20, 15, 76];
 const result = findGreatestNumber(numbersArray);
-console.log(result); // Output: 20
+console.log(result);
